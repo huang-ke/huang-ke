@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huang-ke
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me ...
 
 <!---
