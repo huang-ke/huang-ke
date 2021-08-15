@@ -3,7 +3,8 @@
 -        coding/cooking/playing game.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on
--        machine learning
+-        Machine Learning
+-        Artificial Intelligence
 - 📫 How to reach me  
 -        email:eastonkeh@outlook.com
   
